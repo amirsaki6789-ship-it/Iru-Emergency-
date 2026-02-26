@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Iru Emergency Pro</title>
-    
-    <style>
-        /* --- 1. CORE STYLES (OFFLINE) --- */
-        :root {
-            --primary: #ff3b30; /* Apple Red */
-            --bg: #f2f2f7;
-            --card: #ffffff;
-            --text: #1c1c1e;
-            --subtext: #8e8e93;
-            --blue: #007aff;
-            --green: #34c759;
-            --orange: #ff9500;
-            --radius: 18px;
-            --shadow: 0 4px 12px rgba(0,0,0,0.06);
-        }
-
-        * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; outline: none; }
-
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background-color: var(--bg);
+                background-color: var(--bg);
             margin: 0; padding: 0;
             color: var(--text);
             /* SCROLL FIX: Native scrolling with padding */
